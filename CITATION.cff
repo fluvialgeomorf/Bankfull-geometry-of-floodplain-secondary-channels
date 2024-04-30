@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Bankfull dimensions of river channels
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tanya
+    family-names: Shukla
+    email: tshukla2@illinois.edu
+identifiers:
+  - type: doi
+    value: 10.8888/github
+repository-code: >-
+  https://github.com/fluvialgeomorf/Bankfull-geometry-of-floodplain-secondary-channels.git
+license: CC-BY-1.0
